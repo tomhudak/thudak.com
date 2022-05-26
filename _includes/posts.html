@@ -1,0 +1,21 @@
+<h1>Blog posts</h1>
+
+{% for post in site.posts %}
+<div>
+    <div class="wrapper">
+        <a class="intro-left" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <p style="text-align: right;" class="intro-right">{{ post.date | date: "%b %-d, %Y" }}</p>
+    </div>
+    <div>
+        <p class="post-description">{{ post.description }}</p>
+    </div>
+    <hr>
+</div>
+{% endfor %}
+
+<div>
+    <p class="center"> 
+      <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
+      Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+    </p>
+  </div>

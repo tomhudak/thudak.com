@@ -1,0 +1,44 @@
+<footer>
+
+    <div class="footer-container content">
+      <div>
+          <ul class="footer">
+            <li>
+              <a href="mailto:{{ site.email }}">
+                <span class="fa fa-envelope-o fafoo"></span>
+                <span>{{ site.email }}</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/{{ site.linkedin-username }}">
+                <span class="fa fa-linkedin fafoo"></span>
+                <span>{{ site.linkedin-username }}</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/{{ site.github-username }}">
+                <span class="fa fa-github fafoo"></span>
+                <span>{{ site.github-username }}</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://medium.com/@{{ site.medium-username }}">
+                <span class="fa fa-medium fafoo"></span>
+                <span>{{ site.medium-username }}</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/{{ site.twitter-username }}">
+                <span class="fa fa-twitter fafoo"></span>
+                <span>{{ site.twitter-username }}</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="build content">
+          <span>Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Last build: </span><span>{{ site.time | date: "%b %-d, %Y %R %Z" }}</span>
+        </div>
+      </div>
+
+  </footer>
+  

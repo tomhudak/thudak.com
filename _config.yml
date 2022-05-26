@@ -1,0 +1,27 @@
+# Site settings
+title: Tamas Hudak
+email: tamas@hudak.pro
+description: "Software Engineer"
+url: "https://hudak.pro"
+baseurl: ""
+github-username: tomhudak
+twitter-username: tamas_hudak
+medium-username: tamashudak
+linkedin-username: tamas-hudak
+
+google_analytics: G-E3M29N1MHD
+
+exclude:
+  - .devcontainer
+  - .vscode
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/summer.jpeg
