@@ -1,6 +1,6 @@
 ## Source code to [hudak.pro](https://hudak.pro/) site
 
-This is the sourc code to my personal site [hudak.pro](https://hudak.pro/) built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://docs.github.com/en/pages).
+This is the source code to my personal site [hudak.pro](https://hudak.pro/) built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://docs.github.com/en/pages).
 
 ## Build
 
