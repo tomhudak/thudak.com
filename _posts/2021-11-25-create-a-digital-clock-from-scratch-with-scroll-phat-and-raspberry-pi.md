@@ -19,7 +19,7 @@ Scroll pHAT is a LED display designed by [Pimoroni](https://shop.pimoroni.com/) 
 
 Although this guide focuses on the above display, the process to set up a very popular [16x2 LCD Display](https://components101.com/displays/16x2-lcd-pinout-datasheet) is quite similar.
 
-One reason I've made this guide is to have this years later when I'm going to use this display again for something else. Also hoping that it can help others who would like to set something similar up. For similar reasons I've created a guide to [Spin down HDD in Raspberry Pi](https://tomhudak.github.io/blog/2019-01-24-spin-down-hdd-with-raspberry-pi-using-hd-idle/). 
+One reason I've made this guide is to have this years later when I'm going to use this display again for something else. Also hoping that it can help others who would like to set something similar up. For similar reasons I've created a guide to [Spin down HDD in Raspberry Pi](/blog/2019-01-24-spin-down-hdd-with-raspberry-pi-using-hd-idle/). 
 
 As an example I am going to set up a clock on the display that is scrolling infinitely. 
 

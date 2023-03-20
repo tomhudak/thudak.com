@@ -1,5 +1,11 @@
-## Source code to [tomhudak.github.io](https://tomhudak.github.io/)
+## Source code to [hudak.pro](https://hudak.pro/) site
 
-This is the sourc code to my personal site [tomhudak.github.io](https://tomhudak.github.io/) built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://docs.github.com/en/pages).
+This is the sourc code to my personal site [hudak.pro](https://hudak.pro/) built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://docs.github.com/en/pages).
 
-[![Site build CI](https://github.com/tomhudak/tomhudak.github.io/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/tomhudak/tomhudak.github.io/actions/workflows/jekyll.yml)
+## Build
+
+Make sure to have your `.env` ready. See `.env.example` for template.
+
+- In the dev container run `JEKYLL_ENV=production bundle exec jekyll build`
+- On the source code root run `./deploy.sh`
+- On the web server (running nginx) run `sudo nginx -s reload`

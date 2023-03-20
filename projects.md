@@ -8,7 +8,7 @@ include: true
 
 # Learning projects
 
-## Todo List APIs & Frontends
+## Todo List APIs & Frontendsx
 
 Todo List is a great way to go through the basic capabilities and behaviors of a programming language. What you can mostly find on the internet is either just an API or just a front-end that is using local-storage. 
 
@@ -20,7 +20,7 @@ With this setup, besides the language basics, I can get to know how routing, CRU
 
 #### API
 
-- Go API [go-todolist-api](https://github.com/tomhudak/go-todolist-api) - Learned golang basics, routing, ORM ([gorm](https://gorm.io/)) connection to MySQL. Also learned how to use [Dev Containers for VS Code](//blog/2021-11-16-containerize-your-development-environment-with-visual-studio-code/)
+- Go API [go-todolist-api](https://github.com/tomhudak/go-todolist-api) - Learned golang basics, routing, ORM ([gorm](https://gorm.io/)) connection to MySQL. Also learned how to use [Dev Containers for VS Code](/blog/2021-11-16-containerize-your-development-environment-with-visual-studio-code/)
 - Node.js API [node-todolist-api](https://github.com/tomhudak/node-todolist-api) - Refreshed my Node.js basics, routing, cors, ODM ([mongoose](https://mongoosejs.com/)) connection to MongoDB.
 
 #### Frontend
@@ -30,4 +30,4 @@ With this setup, besides the language basics, I can get to know how routing, CRU
 
 ## This site
 
-This site, besides sharing my stuff was created to learn [Jekyll](https://jekyllrb.com/) some CSS, and [Github Actions](https://github.com/features/actions). Source can be found at [github.com/tomhudak/tomhudak.github.io](https://github.com/tomhudak/tomhudak.github.io)
+This site, besides sharing my stuff was created to learn [Jekyll](https://jekyllrb.com/) some CSS, and [Github Actions](https://github.com/features/actions). Source can be found at [github.com/tomhudak/hudak.pro](https://github.com/tomhudak/hudak.pro)

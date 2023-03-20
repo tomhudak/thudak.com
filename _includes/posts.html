@@ -3,7 +3,7 @@
 {% for post in site.posts %}
 <div>
     <div class="wrapper">
-        <a class="intro-left" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="intro-left" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
         <p style="text-align: right;" class="intro-right">{{ post.date | date: "%b %-d, %Y" }}</p>
     </div>
     <div>
@@ -15,7 +15,7 @@
 
 <div>
     <p class="center"> 
-      <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
-      Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+      <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.url }}"></a>
+      Subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a>
     </p>
   </div>
