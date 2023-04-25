@@ -30,4 +30,4 @@ With this setup, besides the language basics, I can get to know how routing, CRU
 
 ## This site
 
-This site, besides sharing my stuff was created to learn [Jekyll](https://jekyllrb.com/) some CSS, and [Github Actions](https://github.com/features/actions). Source can be found at [github.com/tomhudak/hudak.pro](https://github.com/tomhudak/hudak.pro)
+This site, besides sharing my stuff was created to learn [Jekyll](https://jekyllrb.com/) some CSS, and [Github Actions](https://github.com/features/actions). Source can be found at [github.com/tomhudak/thudak.com](https://github.com/tomhudak/thudak.com)

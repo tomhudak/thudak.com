@@ -1,4 +1,4 @@
-Sitemap: https://hudak.pro/sitemap.xml
+Sitemap: https://thudak.com/sitemap.xml
 
 User-agent: *
 Disallow:

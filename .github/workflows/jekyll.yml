@@ -1,4 +1,4 @@
-name: hudak.pro Jekyll site CI
+name: thudak.com Jekyll site CI
 
 on:
   push:

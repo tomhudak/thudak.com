@@ -1,6 +1,6 @@
-## Source code to [hudak.pro](https://hudak.pro/) site
+## Source code to [thudak.com(https://thudak.com/) site
 
-This is the source code to my personal site [hudak.pro](https://hudak.pro/) built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://docs.github.com/en/pages).
+This is the source code to my personal site [thudak.com](https://thudak.com/) built with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://docs.github.com/en/pages).
 
 ## Build
 
