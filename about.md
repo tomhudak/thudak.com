@@ -24,13 +24,21 @@ Location: Nyíregyháza, Hungary
 
 Phone: +36 30 493 67 59
 
-E-mail: tamas@hudak-balogh.hu
+E-mail: contact@thudak.com
 
 ---
 #### WORKING EXPERIENCE
 
-2021 – <span>&emsp;&emsp;</span> LogMeIn, **Senior Software Engineer** - Budapest (Remote), Hungary
->*Creating unified admin solutions for market leading password
+2022 – <span>&emsp;&emsp;</span> URBANTZ, **Senior Software Engineer** - Brussels (Remote), Belgium
+>*Building software for handling last mile delivery logistics.*
+
+>**Project:** Full-stack, scalable web application development.
+
+>**Stack:** TypeScript, Angular, AngularJS, Node.js, MongoDB, RabbitMQ,
+Docker
+
+2021 – 2022 LogMeIn, **Senior Software Engineer** - Budapest (Remote), Hungary
+>*Created unified admin solutions for market leading password
 manager LastPass and GoTo products.*
 
 >**Project:** Full-stack web application development, API integration.
@@ -40,11 +48,10 @@ Docker
 
 2018 – 2021 Betsson Group, **Development Team Lead** / **Senior Developer** – Budapest, Hungary
 
->*Developed back office tools for Sportsbetting Traders. Scrum master and later team
+>*Developed back office tools for sports betting traders. Scrum master and later team
 lead. On-call support.*
 
->**Project:** Full-stack web application and distributed event-driven microservice
-system development.
+>**Project:** Full-stack web application and distributed event-driven microservice system development.
 
 >**Stack:** Angular/JS, SignalR, ASP.NET Web Api, C#/.NET Core, MSSQL, RabbitMQ, Redis,
 TeamCity, Splunk, Docker, DDD, (Some experience with Elasticsearch)
@@ -80,6 +87,8 @@ systems)
 ---
 #### CERTIFICATIONS & WORKSHOPS
 
+2022 The MongoDB Aggregation Framework (MongoDB University)
+
 2020 Designing Microservices (NDC Workshop)
 
 2019 Certified ScrumMaster
@@ -106,6 +115,7 @@ English: Professional working proficiency
 Hungarian: Native
 
 --- 
-#### OTHER
-- Driving license
-- Hobbies, interests: cycling, playing strategic board games, stock market
+#### HOBBIES, INTERESTS
+- Cycling
+- Playing strategic board games
+- Stock market
