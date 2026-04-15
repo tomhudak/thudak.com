@@ -12,15 +12,15 @@ include: false
 
 ## Overview
 
-This privacy policy describes how Tamas Hudak ("I", "me") handles information in connection with applications published under my Google account. These applications are developed and used solely for my own internal automation workflows (via n8n) and are not intended for public use.
+This privacy policy describes how Tamas Hudak ("I", "me") handles information in connection with the **n8n-szamlakezelo** application published under my Google account. This application is developed and used solely for my own internal automation workflows (via n8n) and is not intended for public use.
 
 ## Data Collection and Use
 
-My applications access Google API services solely to perform automated tasks within my own accounts. The applications:
+The n8n-szamlakezelo application accesses Google API services solely to perform automated tasks within my own accounts. The application:
 
 - Do **not** collect, store, or share personal data from any third-party users
 - Do **not** track users or use cookies beyond what is required by Google APIs
-- Are **not** publicly available or intended for external users
+- Is **not** publicly available or intended for external users
 
 Any data accessed through Google APIs is used exclusively for my internal workflow automation and is not shared with any third parties.
 
@@ -30,7 +30,7 @@ My use of information received from Google APIs adheres to the [Google API Servi
 
 ## Data Storage
 
-Data processed by my applications is handled within the n8n workflow automation platform running on my own infrastructure. No user data is sold, shared, or transferred to third parties.
+Data processed by n8n-szamlakezelo is handled within the n8n workflow automation platform running on my own infrastructure. No user data is sold, shared, or transferred to third parties.
 
 ## Changes to This Policy
 
