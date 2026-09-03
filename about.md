@@ -34,8 +34,9 @@ E-mail: contact@thudak.com
 
 >**Project:** Full-stack, scalable web application development.
 
->**Stack:** TypeScript, Angular, AngularJS, Node.js, MongoDB, RabbitMQ,
-Docker
+>**Stack:** TypeScript, Node.js, Angular, AngularJS, MongoDB, Redis, RabbitMQ, Inversify, Jest, Playwright, Docker, Grafana
+
+>**AI-assisted delivery:** Working agent-first with Claude Code and MCP integrations, building custom agent skills to support end-to-end delivery.
 
 2021 – 2022 LogMeIn, **Senior Software Engineer** - Budapest (Remote), Hungary
 >*Created unified admin solutions for market leading password
